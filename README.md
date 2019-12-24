@@ -1,0 +1,1 @@
+Пример работы с нативным JS, AJAX, webpack, babel.
